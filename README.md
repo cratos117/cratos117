@@ -1,19 +1,24 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-hero-dark.svg">
-  <img alt="cratos117: GitHub profile. An arcade maze built from the last year of contributions, one pellet per day and bigger on busier days, with the name in neon over it. A demo game plays: the chomper eats its way to a power pellet (one of the busiest days) and then eats the ghosts, which are the featured repositories. 3 contributions on 1 active days; best day 3; longest streak 1 day." src="./assets/pacman-hero-light.svg" width="100%">
+  <img alt="cratos117: GitHub profile. An arcade maze built from the last year of contributions, one pellet per day and bigger on busier days, with the name in neon over it. A demo game plays: the chomper eats its way to a power pellet (one of the busiest days) and then eats the ghosts, which are the featured repositories. 4 contributions on 1 active days; best day 4; longest streak 1 day." src="./assets/pacman-hero-light.svg" width="100%">
 </picture>
 </p>
 
 <p align="center"><b>cratos117</b></p>
 
 
+**Player 1.** 💻 Sobre mí
+* 🔭 Actualmente estoy desarrollando herramientas web y software personalizado para gestión clínica, además de plataformas interactivas.
+* ⚡ Me apasiona el hardware IoT (ESP32, LoRa/Meshtastic), la electrónica, la reparación de equipos y la automatización.
+* 🛠️ Tecnologías principales: **Python, JavaScript, HTML/CSS, Git, Linux**.
+
 #### Scoreboard
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-score-dark.svg">
-  <img alt="Scoreboard. Meet the ghosts, one per featured project: cratos117.github.io, sistema-de-registro. High scores: 3 contributions, 1 active days, a 1-day streak, 3 on the best day (November 11), 0 stars, 0 followers, 5 years on GitHub. Bonus items, the languages: CSS 38%, JavaScript 33%, HTML 29%." src="./assets/pacman-score-light.svg" width="100%">
+  <img alt="Scoreboard. Meet the ghosts, one per featured project: cratos117.github.io, sistema-de-registro. High scores: 4 contributions, 1 active days, a 1-day streak, 4 on the best day (November 11), 0 stars, 0 followers, 5 years on GitHub. Bonus items, the languages: CSS 38%, JavaScript 33%, HTML 29%." src="./assets/pacman-score-light.svg" width="100%">
 </picture>
 </p>
 
